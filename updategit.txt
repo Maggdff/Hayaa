@@ -1,3 +1,0 @@
-git remote add origin https://github.com/MomenMassoud/hayaa_main.git
-git branch -M main
-git push -u origin main
